@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm David Pinto. I'm a Digital Consultant and study programming
+I am available and actively looking for work, like a Junior Web Developer or other roles.
+
+📫 How to reach me: https://beacons.ai/davidpinto
 
 <!--
 **davidpinto1979/davidpinto1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
