@@ -1,5 +1,5 @@
 ### Hi there 👋  I'm David Pinto
-##Digital Consultant and programming student.
+## Digital Consultant and programming student.
 I am available and actively looking for work, like a Junior Web Developer or other roles.
 
 📫 How to reach me: https://beacons.ai/davidpinto
