@@ -25,6 +25,8 @@ I am available and actively looking for work, like a Junior Web Developer or oth
 </div>
   
   ##
+  
+
 
   <!-- ACTUALIZAR COM MEUS SITES - REDES SOCIAIS
 <div> 
@@ -35,7 +37,13 @@ I am available and actively looking for work, like a Junior Web Developer or oth
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
+</div>
+  
+TENHO QUE fazer o processo de Actions deste tutorial - https://www.instagram.com/p/CPjUBhXDNEE/
+
+    ![Snake animation](https://github.com/davidpinto1979/davidpinto1979/blob/output/github-contribution-grid-snake.svg)
+
+
 -->
   
  
