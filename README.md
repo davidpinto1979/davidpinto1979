@@ -1,8 +1,13 @@
-### Hi there 👋
-I'm David Pinto. I'm a Digital Consultant and study programming
+### Hi there 👋  I'm David Pinto. I'm a Digital Consultant and study programming.
 I am available and actively looking for work, like a Junior Web Developer or other roles.
 
 📫 How to reach me: https://beacons.ai/davidpinto
+
+<div align="center">
+  <a href="https://beacons.ai/davidpinto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidpinto1979&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidpinto1979&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **davidpinto1979/davidpinto1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
