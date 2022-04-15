@@ -1,16 +1,22 @@
 ### Hi there 👋  I'm David Pinto
-#### Digital Consultant and coding student.
-I am available and actively looking for work, like a Junior Web Developer or other roles.
+#### Digital consultant and coding student.
+I am available and actively looking for work, like Junior Web Developer or similar roles.
 
 📫 How to reach me: https://beacons.ai/davidpinto
+<br><br>
+<a href="https://www.linkedin.com/in/davidpinto1979" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ##
-  
+
+<a href="https://beacons.ai/davidpinto">
+
+ 
 <div>
-  <a href="https://beacons.ai/davidpinto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidpinto1979&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidpinto1979&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidpinto1979&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
