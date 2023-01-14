@@ -12,9 +12,10 @@ I am available and actively looking for work, like Junior Web Developer or simil
 
  
 <div>
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidpinto1979&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
--->
+<!-- NAO ESTAVA A FUNCIONAR criei o meu proprio vercel instance - https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidpinto1979&layout=compact&langs_count=7&theme=tokyonight"/>
+-->
+  <img height="180em" src="https://github-readme-stats-davidpinto1979.vercel.app/api/top-langs/?username=davidpinto1979&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
