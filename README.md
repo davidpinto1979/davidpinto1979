@@ -6,6 +6,8 @@ I am available and actively looking for work, like Junior Web Developer or simil
 <br><br>
 <a href="https://www.linkedin.com/in/davidpinto1979" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+https://davidpinto1979.github.io/Portfolio_AI_Agent
+
   ##
 
 <a href="https://beacons.ai/davidpinto">
